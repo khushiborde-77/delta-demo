@@ -1,5 +1,5 @@
 hi 
 this is git demo.
 
-# student
+# stdudent
 Khushi Borde
